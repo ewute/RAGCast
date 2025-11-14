@@ -1,0 +1,15 @@
+# Core libraries
+pandas
+requests
+beautifulsoup4
+
+# Text processing
+sentence-transformers
+torch
+numpy
+scikit-learn
+tf-keras
+
+# Compatibility (prevents Keras 3 conflict)
+transformers<4.46
+tf-keras==2.15.0
