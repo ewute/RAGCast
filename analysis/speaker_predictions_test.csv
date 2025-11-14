@@ -1,0 +1,464 @@
+true_character,line,predicted_character,correct,source_file
+Cyclopes,Who hurts you?,Cyclopes,True,../data_new/speaker_texts/test/Cyclopes.txt
+Hermes,(Oh) Wouldn't you like to have some of the magic?,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,Here in the root of this flower,Lotus_Eaters,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,When strangers lurk around the isle,Storm,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,You'll need a mindset change for this,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,"(Oh) Deep in the night, the fight can be tragic",Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,All you need's imagination,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,You wanna get home?,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,That'll grind you to the bones,Scylla,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,"First stop, uncharted waters",Polites,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,(Oh) Wouldn't you like a taste of the power?,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,You can be hurt or you can beat her,Hera,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,Put it all on the line,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,A foe like Circe's not to be messed with,Ares,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,Divine intervention,Zeus,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,"I must say, what a brilliant speech you gave",Polites,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,You'll need the blessing of a certain god,Zeus,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,When you take her on alone,Hermes,True,../data_new/speaker_texts/test/Hermes.txt
+Hermes,"You think you're going, you keep on rowing",All,False,../data_new/speaker_texts/test/Hermes.txt
+Hermes,"Ahahahahaha, hello old friend",Winions,False,../data_new/speaker_texts/test/Hermes.txt
+Eurylochus,Captain!,Perimedes,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,Woah,Hera,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"But when we fought this monster, we didn't take a stand",Odysseus,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"But captain, what'll we do with our fallen friends?",Fallen_Soldiers,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,How much longer 'til we all fall down?,Eurylochus,True,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"For inside the meal, think of your past",Scylla,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"Gods, monsters, you know the roster, hostile creatures that we could resist",Telemachus,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,Don't forget how dangerous the gods are,Zeus,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"If you want all the power, you must carry all the blame",Hephaestus,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"She turned our men, the world does not",Zeus,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,So let's raid the place and...,Winions,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"And grow snouts and tails, mistakes you'll make",Scylla,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,Please don't tell me you're about to do what I think you'll do,Hera,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"Captain, I have something that I must confess",Eurylochus,True,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"Curse the war, our food store's depleted",Lotus_Eaters,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,But captai,Perimedes,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,"They transformed, this is the price",Circe,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,You miss your wife so bad you trade the lives of your own crew,Fallen_Soldiers,False,../data_new/speaker_texts/test/Eurylochus.txt
+Eurylochus,How much longer 'til the show goes south?,Eurylochus,True,../data_new/speaker_texts/test/Eurylochus.txt
+Scylla,We must do what it takes to survive,Scylla,True,../data_new/speaker_texts/test/Scylla.txt
+Scylla,Give up your honor and faith,Scylla,True,../data_new/speaker_texts/test/Scylla.txt
+Soldiers,Storm,Winions,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,It's what lies in between,Lotus_Eaters,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"Show him that we're deadly, ha, ha",Scylla,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"Tonight, we make the Trojans pay",Soldiers,True,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Full speed ahead,All,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,It's just one life to take,Polyphemus,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,And when we kill him then our journey’s over,Odysseus,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Odysseus,Penelope,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,They will lead us to land,Perimedes,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,He is the man-made monster,Fallen_Soldiers,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Six hundred men Six hundred men,Eurylochus,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Defeat is not allowed,Soldiers,True,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Our lives like this when people die like this?,Fallen_Soldiers,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,And Little Ajax will stay back,Perimedes,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Our foe must be thwarted right here and now,Hera,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"So captain, what's the plan?",Perimedes,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,We are the ones who conquer,Soldiers,True,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Push forward,Perimedes,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"Full speed ahead, until we find the prophet",Soldiers,True,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Ruthlessness is (Captain) mercy upon our- Captain,Laestrygonians,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Diomedes will lead the charge,Zeus,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,You are a threat no longer,Polyphemus,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"Storm, storm",Soldiers,True,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Watch where the birds fly,All,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"We're up, we're off, and a-",All,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,When the fire begins to fade,Polites,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Six hundred lives at stake,Odysseus,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Nothing's what it seems,Winions,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Brace for a storm,Storm,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Storm,Winions,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Monster,Fallen_Soldiers,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,"Don't let him get close, he's strong but he's slow",Ares,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Make it back alive to our homeland,Perimedes,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Let's kill him!,Scylla,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Think of your wives and your children,Fallen_Soldiers,False,../data_new/speaker_texts/test/Soldiers.txt
+Soldiers,Six hundred reasons to take what we can,Eurylochus,False,../data_new/speaker_texts/test/Soldiers.txt
+Lotus_Eaters,Welcome,Lotus_Eaters,True,../data_new/speaker_texts/test/Lotus_Eaters.txt
+Lotus_Eaters,Food,Lotus_Eaters,True,../data_new/speaker_texts/test/Lotus_Eaters.txt
+Circe,We faced a heavy loss,Odysseus,False,../data_new/speaker_texts/test/Circe.txt
+Circe,There are other roads to the soul,Tiresias,False,../data_new/speaker_texts/test/Circe.txt
+Circe,All I did was reveal their true forms,Zeus,False,../data_new/speaker_texts/test/Circe.txt
+Circe,So now there is no turning back,Tiresias,False,../data_new/speaker_texts/test/Circe.txt
+Circe,"Who, me?",Polyphemus,False,../data_new/speaker_texts/test/Circe.txt
+Circe,"Not even a spell saves you, cause you're done for",Scylla,False,../data_new/speaker_texts/test/Circe.txt
+Circe,You have so much left to learn,Hera,False,../data_new/speaker_texts/test/Circe.txt
+Circe,There are other means of deceit,Circe,True,../data_new/speaker_texts/test/Circe.txt
+Circe,"No, I don't play, I puppeteer, yeah",Scylla,False,../data_new/speaker_texts/test/Circe.txt
+Circe,She changed them,Circe,True,../data_new/speaker_texts/test/Circe.txt
+Circe,Moly without dire consequence,Fallen_Soldiers,False,../data_new/speaker_texts/test/Circe.txt
+Circe,I bet you're tired from the years spent on your feet,Scylla,False,../data_new/speaker_texts/test/Circe.txt
+Circe,"Boy, you better run or soon you will done for",Eurylochus,False,../data_new/speaker_texts/test/Circe.txt
+Circe,"From men to pigs, tend to forgive",Winions,False,../data_new/speaker_texts/test/Circe.txt
+Telemachus,I know life and fate are scary,Telemachus,True,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,If I have your strength in me,Hermes,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,Or if he's worth the hype but,Hera,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,But I wanna be l-l-l-l-legendary,Telemachus,True,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,You're the friend I've never had before,Storm,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,108 old faces of men who call me small,Fallen_Soldiers,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,But no clue who you are,Winions,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,"If I fight those monsters, is it you I'll find?",Telemachus,True,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,Trying to win the heart of my mom,Aphrodite,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,Cause I'm stuck with your stories,Hera,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,Give me sirens and a cyclops,Odysseus,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,I can't find the words,Odysseus,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,"But boy, I wish I could, so I could bring this world some light",Polites,False,../data_new/speaker_texts/test/Telemachus.txt
+Telemachus,All my life I'd have died to know you,Telemachus,True,../data_new/speaker_texts/test/Telemachus.txt
+Tiresias,I see the sacrifice of man,Tiresias,True,../data_new/speaker_texts/test/Tiresias.txt
+Tiresias,I see portrayals of betrayals,Tiresias,True,../data_new/speaker_texts/test/Tiresias.txt
+Tiresias,There is a world where I help you get home,Tiresias,True,../data_new/speaker_texts/test/Tiresias.txt
+Polites,Greet the world with open arms,Polites,True,../data_new/speaker_texts/test/Polites.txt
+Polites,"My friend, greet the world with open arms",Polites,True,../data_new/speaker_texts/test/Polites.txt
+Polites,See? This life is amazing when you greet it with open arms,Polites,True,../data_new/speaker_texts/test/Polites.txt
+Polites,I see a light that faintly glows,Tiresias,False,../data_new/speaker_texts/test/Polites.txt
+Polites,I'm telling you,Perimedes,False,../data_new/speaker_texts/test/Polites.txt
+Polites,You could show a person that you trust them,Hephaestus,False,../data_new/speaker_texts/test/Polites.txt
+Polites,"Give it a try, it's not that hard",Hera,False,../data_new/speaker_texts/test/Polites.txt
+Polites,A cave! You're saying there's a cave where we could feast?,Polites,True,../data_new/speaker_texts/test/Polites.txt
+Polites,You and I'll go ahead,Perimedes,False,../data_new/speaker_texts/test/Polites.txt
+Polites,Why should we take when we could give?,Hera,False,../data_new/speaker_texts/test/Polites.txt
+Perimedes,Open the bag,Aeolus,False,../data_new/speaker_texts/test/Perimedes.txt
+Calypso,I'm not sorry for loving you,Calypso,True,../data_new/speaker_texts/test/Calypso.txt
+Calypso,"No one can come nor go, my island stays unknown",Polyphemus,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Now til the end of time,Tiresias,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,You do?,Cyclopes,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Or if I came on too strong,Odysseus,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Or if I ambushed you,Polyphemus,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,I wish you would chase me,Penelope,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Or if I came on too strong,Odysseus,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,And if you hate me,Ensemble,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,You're adorable,Hera,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,I had no friends but the sky and sun,Aeolus,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,I'm not sorry for loving you,Calypso,True,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Cause we've got,Perimedes,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,But I'm not sorry for loving you,Calypso,True,../data_new/speaker_texts/test/Calypso.txt
+Calypso,And if you hate me,Ensemble,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,'Cause?you're?all I've ever?known,Hera,False,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Hate that I fell in love with you,Calypso,True,../data_new/speaker_texts/test/Calypso.txt
+Calypso,Why did I fall in love with you?,Calypso,True,../data_new/speaker_texts/test/Calypso.txt
+Hephaestus,Very well,Hera,False,../data_new/speaker_texts/test/Hephaestus.txt
+Crew,But when does a comet become a meteor?,Crew,True,../data_new/speaker_texts/test/Crew.txt
+Crew,When does a man become a monster? Forgive me,Fallen_Soldiers,False,../data_new/speaker_texts/test/Crew.txt
+Crew,Deep down I would trade the world to see my son and wife,Telemachus,False,../data_new/speaker_texts/test/Crew.txt
+Crew,Full speed ahead,All,False,../data_new/speaker_texts/test/Crew.txt
+Crew,Storm,Winions,False,../data_new/speaker_texts/test/Crew.txt
+Crew,Wh?n does a man become a monster?,Fallen_Soldiers,False,../data_new/speaker_texts/test/Crew.txt
+Crew,Keep your friends close and your enemies closer,Storm,False,../data_new/speaker_texts/test/Crew.txt
+Crew,"Captain, how much longer til your luck runs out?",Eurylochus,False,../data_new/speaker_texts/test/Crew.txt
+Crew,You're as old as he was when I left for war,Odysseus,False,../data_new/speaker_texts/test/Crew.txt
+Crew,How much longer 'til the show goes south?,Eurylochus,False,../data_new/speaker_texts/test/Crew.txt
+Crew,Every man I’ve slain?,Fallen_Soldiers,False,../data_new/speaker_texts/test/Crew.txt
+Aeolus,Land of the giants,Winions,False,../data_new/speaker_texts/test/Aeolus.txt
+Aeolus,Keep your friends close and your enemi?s closer,Winions,False,../data_new/speaker_texts/test/Aeolus.txt
+Aeolus,Keep your friends close and your enemies closer,Storm,False,../data_new/speaker_texts/test/Aeolus.txt
+Aeolus,Sometimes sneaking is a must,Storm,False,../data_new/speaker_texts/test/Aeolus.txt
+Aeolus,Never really know who you can trust,Storm,False,../data_new/speaker_texts/test/Aeolus.txt
+Aeolus,Sometimes sneaking is a must,Storm,False,../data_new/speaker_texts/test/Aeolus.txt
+Aeolus,Full speed ahead,All,False,../data_new/speaker_texts/test/Aeolus.txt
+Suitors,While the boy gets bolder,Antinuous,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,Here and now,Tiresias,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"We know these halls, the odds can be tilted",Storm,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"Hold 'em down, hold 'em down",Antinuous,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,So,Hera,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"Bite, little wolf, bite",Antinuous,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"Strike, little wolf, strike",Suitors,True,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"Keep your head down, he's aiming for the torches",Winions,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"Die, little wolf, die, little wolf, die",Antinuous,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,I will not let any part go to waste,Polyphemus,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,You'll have run out of bones to break when you and I are through,Scylla,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,Run away before you,Scylla,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,"No, you don't understand it. This man plans for every fight",Hermes,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,Somewhere in the shadows lurks an agile deadly foe,Winions,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,He's using the darkness to hide his approaches,Ares,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,Channel the fire inside your soul and,Hermes,False,../data_new/speaker_texts/test/Suitors.txt
+Suitors,Time to be the man of the house (Penelope),Suitors,True,../data_new/speaker_texts/test/Suitors.txt
+Antinuous,"Bite, little wolf, bite",Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,Channel the fire inside your soul,Hermes,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Die, little wolf, die, little wolf, die",Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,Stop us from taking her love and more,Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Then, when he docks his ship, we can breach it",Hephaestus,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,Hold us down,Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Screw this?damn challenge, no more delays",Perimedes,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,Cut him down into tiny pieces,Fallen_Soldiers,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,Hold him down 'til the boy stops shaking,Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Fight, little wolf, fight",Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Try, little wolf try",Suitors,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Hold 'em down, hold 'em down",Suitors,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,You'll have run out of bones to break when you and I are through,Scylla,False,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,"Here and now, there's a chance for action",Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,While the boy gets bolder,Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,While the throne gets colder,Antinuous,True,../data_new/speaker_texts/test/Antinuous.txt
+Antinuous,There's a chance for action,Perimedes,False,../data_new/speaker_texts/test/Antinuous.txt
+Ares,"Ugh, release him",Hephaestus,False,../data_new/speaker_texts/test/Ares.txt
+Ares,Never handles things upfront,Crew,False,../data_new/speaker_texts/test/Ares.txt
+Zeus,"Thunder, bring her through the wringer",Zeus,True,../data_new/speaker_texts/test/Zeus.txt
+Zeus,"In the end, it's all the same once I apply all the pressure",Aeolus,False,../data_new/speaker_texts/test/Zeus.txt
+Zeus,"This is the son of none other than Troy's very own prince Hector, know that he will grow from a boy to an avenger",Ares,False,../data_new/speaker_texts/test/Zeus.txt
+Zeus,"Tell me, Odysseus, If I were to make you choose",Aphrodite,False,../data_new/speaker_texts/test/Zeus.txt
+Zeus,"Thunder Bringer, here to ring your",Zeus,True,../data_new/speaker_texts/test/Zeus.txt
+Zeus,Make sure his past is never known (The gods will make it known),Zeus,True,../data_new/speaker_texts/test/Zeus.txt
+Zeus,You are playing with thunder for a man full of shame,Zeus,True,../data_new/speaker_texts/test/Zeus.txt
+Zeus,What do you say?,Perimedes,False,../data_new/speaker_texts/test/Zeus.txt
+Zeus,The lives of your men and crew or your own,Eurylochus,False,../data_new/speaker_texts/test/Zeus.txt
+Zeus,You can say goodbye to,Hera,False,../data_new/speaker_texts/test/Zeus.txt
+Zeus,I wonder who'd take the weight of the damned,Fallen_Soldiers,False,../data_new/speaker_texts/test/Zeus.txt
+Aphrodite,"Ugh, release him",Hephaestus,False,../data_new/speaker_texts/test/Aphrodite.txt
+Athena,I mistook you for a general,Fallen_Soldiers,False,../data_new/speaker_texts/test/Athena.txt
+Athena,One day a boy came for the thrill,Aphrodite,False,../data_new/speaker_texts/test/Athena.txt
+Athena,With one who's a prisoner far from home,Tiresias,False,../data_new/speaker_texts/test/Athena.txt
+Athena,He was betrayed and then imprisoned,Fallen_Soldiers,False,../data_new/speaker_texts/test/Athena.txt
+Athena,'Cause we are the warriors of the mind,Athena,True,../data_new/speaker_texts/test/Athena.txt
+Athena,I've played your game and won. release him,Apollo,False,../data_new/speaker_texts/test/Athena.txt
+Athena,I see you changing from how I've designed you,Tiresias,False,../data_new/speaker_texts/test/Athena.txt
+Athena,"And w?'ll make a greater tomorrow, th?n they'll see",Tiresias,False,../data_new/speaker_texts/test/Athena.txt
+Athena,But if you make the right decision,Hera,False,../data_new/speaker_texts/test/Athena.txt
+Athena,"To get back to his homestead, he'll make everybody bleed",Polyphemus,False,../data_new/speaker_texts/test/Athena.txt
+Athena,I'm not looking for a friend,Polyphemus,False,../data_new/speaker_texts/test/Athena.txt
+Athena,Ohh,Penelope,False,../data_new/speaker_texts/test/Athena.txt
+Athena,Maybe one day they'll follow me and we'll,Perimedes,False,../data_new/speaker_texts/test/Athena.txt
+Athena,"This way, you can't cross the line",Lotus_Eaters,False,../data_new/speaker_texts/test/Athena.txt
+Athena,"This way, when all is over you'll keep yours and I'll keep mine",Aeolus,False,../data_new/speaker_texts/test/Athena.txt
+Athena,Hey!,Hera,False,../data_new/speaker_texts/test/Athena.txt
+Athena,"One day, you might understand",Hera,False,../data_new/speaker_texts/test/Athena.txt
+Athena,"Now, I'm knocking on your door",Polyphemus,False,../data_new/speaker_texts/test/Athena.txt
+Athena,Ohh,Penelope,False,../data_new/speaker_texts/test/Athena.txt
+Athena,I still intend to make sure you don't fall behind,Hera,False,../data_new/speaker_texts/test/Athena.txt
+Athena,He's still a threat until he's dead,Ares,False,../data_new/speaker_texts/test/Athena.txt
+Hera,Release him,Hephaestus,False,../data_new/speaker_texts/test/Hera.txt
+Poseidon,Don't mistake my threats for bluff,Hephaestus,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,I mean you totally could have avoided all this,Hera,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,A Greek who reeks of false righteousness,Laestrygonians,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,"Look what we've become (Ugh, enough)",Scylla,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Crying as they were all slain (Ugh),Fallen_Soldiers,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,You are the worst kind of good,Laestrygonians,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Get in the water,Perimedes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Get in the water,Perimedes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,To say goodbye,Athena,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Mercy has a price,Laestrygonians,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Then you let him live,Fallen_Soldiers,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,"Alright, please",Perimedes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Do you know who I am?,Polyphemus,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,How does it feel to know pain? (Ugh),Cyclopes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Get in the water,Perimedes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,"Wait, ahh",Sirens,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,Hopefulness is almost invisible,Tiresias,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,How does it feel to be helpless? (Argh),Cyclopes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,"That is, unless you choose to die",Tiresias,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,You reveal your name,Polyphemus,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,What?,Cyclopes,False,../data_new/speaker_texts/test/Poseidon.txt
+Poseidon,You sealed your fate just to b?at me,Polyphemus,False,../data_new/speaker_texts/test/Poseidon.txt
+Polyphemus,You're dying here and now,Polyphemus,True,../data_new/speaker_texts/test/Polyphemus.txt
+Polyphemus,You’ve hurt me enough,Polyphemus,True,../data_new/speaker_texts/test/Polyphemus.txt
+Polyphemus,Six hundred lives I'll take,Eurylochus,False,../data_new/speaker_texts/test/Polyphemus.txt
+Polyphemus,Die...,Polyphemus,True,../data_new/speaker_texts/test/Polyphemus.txt
+Polyphemus,You won’t live through this day now die,Scylla,False,../data_new/speaker_texts/test/Polyphemus.txt
+Polyphemus,"Ah, I'd like to thank you",Polites,False,../data_new/speaker_texts/test/Polyphemus.txt
+Odysseus,I know we'll change the world,Polites,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Let's cut this charade, you are no wife of mine",Polyphemus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,There's no time to die,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Sirens know about every route and horizon,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Why won't you let me?,Polyphemus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I'm holding on,Antinuous,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Remember them,Sirens,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,You don't think I know my own palace?,Hephaestus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"This way, I’ll close the door",Athena,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,In an instant so we all don't die,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Waiting, waiting",Penelope,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Over here!,East,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Would that make us stronger?,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Nestor, secure Helen and protect her",Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Ten years of war, they killed us slowly",Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Penelope, I’ve told you this before",Telemachus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,So much has changed but I'm the same,Crew,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,And made sure we got home again,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Find a breach,Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I need all our hands on his club,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Would it keep our foes at bay?,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"It's almost too perfect, too good to be true",Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"They're growing old, and yet you're still here",Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I'll go where Poseidon won't reach us,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,But Scylla has a cost,Ares,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Everyone grab a harpoon and aim it high,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Your families wonder where you've been,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Penelope, why?",Calypso,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Odysseus,Penelope,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,While on the run from Poseidon,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"A trade, you see?",Hephaestus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Penelope...,Telemachus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Then six hundred men can make this whole place burn,All,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Or send him far away from home (He'll find you wherever you go),Aphrodite,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,And I will get back to my wife,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Storm,Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Nothing's what it seems,Storm,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I don't belong here,Scylla,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I can't,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,If we kill him we'll be stuck inside,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"If we don't get back safely, my men will turn this place into blazes",Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,At least I know what I'm fighting for,Telemachus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,But look at the way this fruit is glowing and filled with glowing seeds,Lotus_Eaters,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Hide,Ares,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,How am I to get home?,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I watched my friends die in horror (Ah-ah),Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Why are you here?,Polyphemus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,And Ithaca's waiting Ithaca's waiting,All,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,They wait at the beach,Lotus_Eaters,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Alright, my brothers, listen closely",Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,So what if I'm the,Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Great wind god, Aeolus",Zeus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Use your swords to sharpen the stub,Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,You know that I pr?fer my feet on the ground,Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"This way, you won't waste my time",Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Here and they wound up at your door,Lotus_Eaters,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Cut off their tails! We're ending this now,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I don't know if you know this,Storm,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Don't let him get close, he's strong but he's slow",Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Athena!,Ares,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,NO,Sirens,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Our fates are intertwined, they're attached",Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Scanning for information,Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Is it nature or divine,Zeus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Now I know how to get back to my island,Lotus_Eaters,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Selfish and prid?ful and vain,Aphrodite,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Storm,Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,But now we're done,Eurylochus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,That's not a teaching of mine,Athena,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Oh, bring it on",Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,There's something wrong here,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,If your plan's so great then why'd you wait to say it?,Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Whatever you need to say can wait some more,Eurylochus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I don't mean to tip your scale but,Crew,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Oh, you better run or soon you will be done for",Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,And our comrades will not die in vain,Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,But all of that was to bring me back to you,Calypso,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Thank you for the concern but brother I can assure you,Polites,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Row for your lives!,Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,We're gonna shoot for the sky,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I keep thinking of the infant from that night,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,What your world has been,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,This is the home of the wind god,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Think of your wives and your children,Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,You can be hurt or you can beat her,Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I lost my best friend,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Poseidon, we meant no harm",Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"You first, and maybe I'll do the same",Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,We gotta stab him in the eye,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Waiting, waiting (Penelope)",Penelope,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Til I'm in the clear, til I'm out of here, oh",Crew,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,But now we'll be the ones who slay,Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Everybody listen closely,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Monster,Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,For the fallen and afraid,Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Six hundred friends are waiting for us to show our faces,Eurylochus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,If I became the,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"I'm not dying here, I'm still fighting here",Telemachus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Deep down I would trade the world to see my son and wife,Telemachus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,So now there is no turning back,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"I realised nearby, there were sirens",Winions,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Teucer will shoot any ambush attack,Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"We're up, we're off, and away we go (Full speed ahead)",All,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Eurylochus, go make sure this island is secure",Ares,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Every time I caved to guilt?,Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,The rest of our fleet,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,We're the ones who carry on,Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Hermes?,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Til I see it through, til I've beaten you",Hermes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,'Cause we are the warriors of the mind,Athena,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,And my real wife knows I don't have a daughter,Odysseus,True,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I still believe in goodness,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,When does a man become a monster? Forgive me,Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Okay,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,That's how it's supposed to be,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Didn't you say that ruthlessness is mercy upon our—,Laestrygonians,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Since you claim you're so much wiser,Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,As many as you can find,Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Oh, for you, I would die, but can't you let me stay dry?",Scylla,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"It's been 8 years, how long will this go?",Eurylochus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Diomedes will lead the charge,Zeus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,No!,Sirens,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Who was that?,Cyclopes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I'm so glad we see eye to eye,Polites,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"So full speed ahead, full speed ahead",All,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,We're shooting for the island in the sky,Perimedes,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,In the sky,Zeus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Penelope...,Zeus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"All I hear are screams, every time I dare to close my eyes",Scylla,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,How did suffering become so endless?,Scylla,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I see fire but there's no smoke,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"My friend is dead, our foe is blind",Ares,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"500 men gone, this can't go on",Fallen_Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Trying to make it home with no storm or tidal wave,Soldiers,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Waiting, oh",Penelope,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"I fight for us, I fight for us",Suitors,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I am not the man you knew,Tiresias,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,You're goin' to call off that storm,Aeolus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"This way, you can't cross the line",Lotus_Eaters,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,"Unmatched, witty, and queen of",Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Make sure his past is never known (The gods will make it known),Zeus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,For you,Hera,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,I'm not sure I follow,Hephaestus,False,../data_new/speaker_texts/test/Odysseus.txt
+Odysseus,Mistakes I ever mak?? Don't break when,Crew,False,../data_new/speaker_texts/test/Odysseus.txt
+Laestrygonians,Guess the pack of wolves is swimming with the shark now,Storm,False,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,Ourselves,Scylla,False,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,"It's the final crack, we're about to break the ice now",Antinuous,False,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,'Cause you fight to save lives,Hera,False,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,Ruthlessness is mercy upon ourselves,Laestrygonians,True,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,Ruthlessness is (Captain) mercy upon our- Captain,Laestrygonians,True,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,Ruthlessness is (Captain),Laestrygonians,True,../data_new/speaker_texts/test/Laestrygonians.txt
+Laestrygonians,And now it is finally time,Tiresias,False,../data_new/speaker_texts/test/Laestrygonians.txt
+Fallen_Soldiers,Captain! Captain! Captain! Captain!,Perimedes,False,../data_new/speaker_texts/test/Fallen_Soldiers.txt
+Ensemble,"Deep in the night, the fight lasts for hours",Hermes,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,I'm not sorry for loving you,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Why did I fall in love with you?,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Or if I ambushed you,Fallen_Soldiers,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,"Penelope (Ah, oh)",Penelope,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,I know you're a goddess,Hera,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,One fuelled with rage as you're consumed by age,Scylla,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,I'm not sorry for loving you,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,This is my goodbye,Ares,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,The best strategies we've seen,Winions,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,You can be hurt or you can beat her,Hera,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Wouldn't you like to use more than words?,Hermes,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,"Unmatched, witty, and queen of",Hera,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Six hundred men (Six hundred),All,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Ohh,Penelope,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,I hate that I fell in love with you,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,"Nah, don't be modest",Winions,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,How am I supposed to get over you?,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Wouldn't you like your outcome preferred?,Hermes,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,I'm not sorry for loving you,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Then I am sorry my love's too much for you,Calypso,False,../data_new/speaker_texts/test/Ensemble.txt
+Ensemble,Or if I came on too strong,Odysseus,False,../data_new/speaker_texts/test/Ensemble.txt
+All,My kingdom is waiting The kingdom is waiting,Penelope,False,../data_new/speaker_texts/test/All.txt
+All,Full speed ahead,All,True,../data_new/speaker_texts/test/All.txt
+All,They will lead us to land,Perimedes,False,../data_new/speaker_texts/test/All.txt
+All,And then we'll make it home,Perimedes,False,../data_new/speaker_texts/test/All.txt
+All,"We're up, we're off, and away we go",All,True,../data_new/speaker_texts/test/All.txt
+All,Monster,Fallen_Soldiers,False,../data_new/speaker_texts/test/All.txt
+All,Make it back alive to our homeland,Perimedes,False,../data_new/speaker_texts/test/All.txt
+All,"Give me 'til sunrise, and if we don't return",Eurylochus,False,../data_new/speaker_texts/test/All.txt
+Sirens,"Penelope (Ah, oh)",Penelope,False,../data_new/speaker_texts/test/Sirens.txt
+Winions,Sometimes sneaking is a must,Storm,False,../data_new/speaker_texts/test/Winions.txt
+Winions,Keep your friends close and your enemi?s closer,Winions,True,../data_new/speaker_texts/test/Winions.txt
+Winions,Never really know who you can trust,Winions,True,../data_new/speaker_texts/test/Winions.txt
+Winions,"If they wanna get the bag open, you gotta say ""no, sir""",Aeolus,False,../data_new/speaker_texts/test/Winions.txt
+Winions,Buh-bye!,Lotus_Eaters,False,../data_new/speaker_texts/test/Winions.txt
+Apollo,So with so many sirens gone,Eurylochus,False,../data_new/speaker_texts/test/Apollo.txt
+Penelope,I’ll make sure that you are safe and sound,Perimedes,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,"Your frame is lighter, your smile torn",Aphrodite,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,They don't know,Storm,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,Though I never thought that it would come to this,Crew,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,That every night,Hermes,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,Just keep your eyes open,Perimedes,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,I would take the suffering from you,Aphrodite,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,The lair of Scylla,Ares,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,And though it was so close to our kingdom,Scylla,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,I said I would choose as soon as I weave this shroud,Tiresias,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,How long has it been?,Crew,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,"No matter how long it's been, you're mine",Calypso,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,Just know I'll be here buying you time,Penelope,True,../data_new/speaker_texts/test/Penelope.txt
+Penelope,"Just know, I'll be here",Tiresias,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,"Oh, could it be some kind of sign",Perimedes,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,Once you know that your aim is true,Zeus,False,../data_new/speaker_texts/test/Penelope.txt
+Penelope,I could take the suffering from you,Scylla,False,../data_new/speaker_texts/test/Penelope.txt
