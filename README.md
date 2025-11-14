@@ -30,9 +30,11 @@ data_new | More efficient scraping/cleaning of data used for final dataset.
 data_old | Previous cleaning of data.
 requirements.txt | List of libraries that need to be installed to run code in this repository
 
-Files in data_new | Description
+Files/Folders in data_new | Description
 ------------- | -------------
 CleaningData.ipynb | File to scrape and clean data.
 ExploratoryDataAnalysis.ipynb | Analysis and visualization of the cleaned data
 epic_all_songs_lines_allspeakers.csv | Collected data that includes all speakers.
 epic_all_songs_lines_trainingdata.csv | Data that does not include speakers with too little lines. The dataset that is used for all the modeling.
+speaker_texts | documents generated from the CSV wher each document contains all lines spoken by a character
+graphs | PNGs of graphs made in ExploratoryDataAnalysis.ipynb
