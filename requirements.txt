@@ -19,3 +19,13 @@ nbformat
 # Compatibility (prevents Keras 3 conflict)
 transformers<4.46
 tf-keras==2.15.0
+
+
+# Langchain
+langchain
+openai
+python-dotenv
+tenacity
+tqdm
+langchain_community
+langchain openai chromadb
